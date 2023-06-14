@@ -1,6 +1,5 @@
 /***
 Program Name: ICAO.cpp
-Date:        26 Apr 2022
 Programmer:   Kaitlyn Molaison
 Description:  Write, compile, and run a C++ program that meets the following 
 requirements:
@@ -43,7 +42,6 @@ int main(int argc, char** argv)
 Method Name:  userMenu()
 Parameter(s): none
 Return Type:  void
-Date:         24 APR 2022
 Programmer:   Kaitlyn Molaison
 Description:  This method shows prompts a user to pick a choice to continue on
 with the program.
@@ -90,7 +88,6 @@ void userMenu()
 Method Name:  wordToICAO()
 Parameter(s): none
 Return Type:  void
-Date:         24 APR 2022
 Programmer:   Kaitlyn Molaison
 Description:  This method prompts the user to input a word or name and then 
 the program will print the ICAO of the word or name entered.
@@ -205,7 +202,6 @@ void wordToICAO()
 Method Name:  ICAOtxt.cpp
 Parameter(s): none
 Return Type:  void
-Date:         24 APR 2022
 Programmer:   Kaitlyn Molaison
 Description:  This method prompts the user to input a word or name and then 
 the program will print the ICAO of the word or name entered.
